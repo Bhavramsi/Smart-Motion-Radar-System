@@ -8,7 +8,7 @@ Based on your uploaded PDF report on **“Echo Sweep: Smart Motion Radar System�
 
 ## 🛰️ Overview
 
-**Echo Sweep** is a smart motion detection radar built using **ESP32**, **HC-SR04 ultrasonic sensor**, and a **servo motor**, visualized using **Processing IDE**. The system simulates a rotating radar that scans its environment in real-time, detects object distance, and displays it graphically in a radar-style interface.
+**Smart motion detection radar** built using **ESP32**, **HC-SR04 ultrasonic sensor**, and a **servo motor**, visualized using **Processing IDE**. The system simulates a rotating radar that scans its environment in real-time, detects object distance, and displays it graphically in a radar-style interface.
 
 This project was built as part of the IoT Laboratory Course at **Dayananda Sagar College of Engineering** under the **Open Ended Project** initiative.
 
