@@ -1,5 +1,5 @@
 # Smart-Motion-Radar-System
-Based on your uploaded PDF report on **“Echo Sweep: Smart Motion Radar System”**, here is a detailed `README.md` file formatted for GitHub or other project documentation platforms.
+
 
 ---
 
